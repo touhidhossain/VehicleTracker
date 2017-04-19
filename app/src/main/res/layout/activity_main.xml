@@ -28,7 +28,7 @@
         android:layout_height="73dp"
         android:text="@string/this_app_will_help_you_to_track_your_bus_location_your_bus_location_will_be_available_on_http_example_com"
         android:textAlignment="center"
-        android:textColor="@android:color/darker_gray"
+        android:textColor="@android:color/background_light"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.511"
         app:layout_constraintLeft_toLeftOf="parent"

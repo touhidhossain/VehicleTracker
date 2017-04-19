@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vehicle Tracker</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="this_app_will_help_you_to_track_your_bus_location_your_bus_location_will_be_available_on_http_example_com">This app will help you to track your bus location. Your bus location will be available on http://example.com</string>
+    <string name="welcome_to_bus_tracking_system">Welcome to bus tracking system</string>
+    <string name="go">GO</string>
+</resources>

@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/bus1"
     tools:context="com.touhid.vehicletracker.Main2Activity">
 
     <TextView
@@ -12,6 +13,7 @@
         android:text="@string/welcome_to_bus_tracking_system"
         android:textAlignment="center"
         android:textAllCaps="true"
+        android:textColor="@android:color/background_light"
         android:textSize="17sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -26,12 +28,13 @@
         android:layout_height="73dp"
         android:text="@string/this_app_will_help_you_to_track_your_bus_location_your_bus_location_will_be_available_on_http_example_com"
         android:textAlignment="center"
+        android:textColor="@android:color/darker_gray"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.511"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.141"
-        app:layout_constraintHorizontal_bias="0.511"
         tools:layout_editor_absoluteX="90dp" />
 
     <Button
